@@ -34,7 +34,7 @@ The script will output a plot illustrating the temperature trends, equilibration
 ### Visualization
 Below is an example output from HydroMD-Equilibrate, showcasing temperature data versus time, with equilibration points and Sen's slope highlighted:
 
-![Temperature vs. Time with Equilibration Points and Sen's Slope](/Users/benthosyy/Desktop/HydroMDEquilibrate/HydroMD-Equilibrate.png)
+![Temperature vs. Time with Equilibration Points and Sen's Slope](HydroMD-Equilibrate.png)
 
 ## Contributing
 Contributions are welcome! Whether you are a seasoned researcher or a student exploring molecular dynamics, your insights can help enhance HydroMD-Equilibrate. We value a culture of collaboration and open dialogue across disciplines.
